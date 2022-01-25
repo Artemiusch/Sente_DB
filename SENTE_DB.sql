@@ -6,6 +6,8 @@ CREATE TABLE czytelnicy (
     data_urodzenia DATETIME
 );
 
+-- test comment
+
 CREATE TABLE typy_kar (
     id INTEGER PRIMARY KEY,
     nazwa VARCHAR(50) 
@@ -26,7 +28,7 @@ CREATE TABLE kary (
 
 CREATE TABLE wypozyczenia (
     id INTEGER PRIMARY KEY,
-    ksiazka_id INTEGER,
+    ksiazka_id INTEGER  ,
     czytelnik_id INTEGER,
     data_wypozyczenia TIMESTAMP,
     planowana_data_zwrotu TIMESTAMP NULL DEFAULT NULL,
@@ -149,3 +151,28 @@ VALUES
     (5, 14, 2, 5, null),
     (6, 20, 2, 5, null);
 
+-- wyświetlenie tablicy czytelnicy
+-- popawienie daty
+SELECT id, imie, nazwisko, plec,
+DATE_FORMAT(data_urodzenia, '%d-%m-%Y') AS data_urodzenia
+FROM czytelnicy;
+
+-- wyświetlenie tablicy kary
+SELECT * FROM kary;
+
+-- wyświetlenie tablicy kategorie
+SELECT * FROM kategorie;
+
+
+-- wyświetlenie tablicy książki
+SELECT * FROM ksiazki;
+
+-- wyświetlenie tablicy typy_kar
+SELECT * FROM typy_kar;
+
+-- wyświetlenie tablicy wypożyczenia
+SELECT id, ksiazka_id, czytelnik_id,
+DATE_FORMAT(data_wypozyczenia, '%Y-%m-%d') AS data_wypozyczenia,
+DATE_FORMAT(planowana_data_zwrotu, '%Y-%m-%d') AS planowana_data_zwrotu,
+DATE_FORMAT(data_zwrotu, '%Y-%m-%d') AS data_zwrotu
+FROM wypozyczenia;
