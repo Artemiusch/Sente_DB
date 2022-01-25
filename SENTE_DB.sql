@@ -7,6 +7,7 @@ CREATE TABLE czytelnicy (
 );
 
 --another testing comment
+-- new commit
 
 CREATE TABLE typy_kar (
     id INTEGER PRIMARY KEY,
