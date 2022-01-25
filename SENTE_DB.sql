@@ -6,7 +6,7 @@ CREATE TABLE czytelnicy (
     data_urodzenia DATETIME
 );
 
--- test comment
+--another testing comment
 
 CREATE TABLE typy_kar (
     id INTEGER PRIMARY KEY,
