@@ -1,26 +1,36 @@
 # Sente DB
-### PL
+###  PL
 
 Rekrutacja na stanowisko praktykant w firmie SENTE,
 praktyki w dziale Baz Danych.
 
-Test zdalny, czas wykonywania 60 minut
-Była podana baza danych, czyli tabeli oraz ER Diagrama tych tabel,
-czyli w jaki sposób one zostałe między sobą połączone. Należało napisać kod do
-10 tasków.
+Test zdalny, czas wykonywania 60 minut.
+Była podana baza danych, czyli spis tabel oraz ER Diagram, który
+podpowiada w jaki sposób one zostałe połączone. 
 
-Spis tabel
+
 1) czytelnicy
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)
 
 2) Kary
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)
+
 
 3) Kategorie
+![alt text]https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)
+
 
 4) Książki
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/ksiazki.PNG)
+
 
 5) Typa kar
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/typy_kar.PNG)
+
 
 6) Wypożyczenia
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/wypozyczenia.PNG)
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/ER_Diagram.PNG)
+
+ER Diagram w jaki sposób tabele między sobą połączone
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/ER_Diagram.PNG)
