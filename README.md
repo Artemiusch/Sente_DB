@@ -10,9 +10,9 @@ Była podana baza danych, czyli spis tabel oraz ER Diagram, który
 podpowiada w jaki sposób one zostałe połączone. 
 
 ## Spic Tabel
-* **czytelnicy**:
+* **Czytelnicy**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG?raw=true "Title")
 
 * **Kary**
 
