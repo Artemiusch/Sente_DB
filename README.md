@@ -17,7 +17,7 @@ podpowiada w jaki sposób one zostałe połączone.
 
 
 3) Kategorie
-![alt text]https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)
 
 
 4) Książki
@@ -25,6 +25,7 @@ podpowiada w jaki sposób one zostałe połączone.
 
 
 5) Typa kar
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/typy_kar.PNG)
 
 
