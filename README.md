@@ -1,18 +1,15 @@
-# Sente DB
-###  PL
-
-Rekrutacja na stanowisko praktykant w firmie SENTE,
-praktyki w dziale Baz Danych.
-
+# Sente DB  - [PL]
+Rekrutacja na stanowisko praktykant w firmie SENTE.
+Praktyki w dziale Baz Danych.
 Test zdalny, czas wykonywania 60 minut.
 Była podana baza danych, czyli spis tabel oraz ER Diagram, który
 podpowiada w jaki sposób one zostałe połączone. 
 
-
-1) czytelnicy
+## Spic Tabel
+* czytelnicy:
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)
 
-2) Kary
+$ Kary
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)
 
 
