@@ -16,7 +16,7 @@ podpowiada w jaki sposób one zostałe połączone.
 
 * **Kary**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)
+![alt text](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG?raw=false)
 
 
 * **Kategorie**
