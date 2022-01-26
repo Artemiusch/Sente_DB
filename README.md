@@ -11,28 +11,34 @@ podpowiada w jaki sposób one zostałe połączone.
 
 ## Spic Tabel
 * **czytelnicy**:
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)
 
-$ Kary
+* **Kary**
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)
 
 
-3) Kategorie
+* **Kategorie**
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)
 
 
-4) Książki
+* **Książki**
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/ksiazki.PNG)
 
 
-5) Typa kar
+* **Typy kar**
 
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/typy_kar.PNG)
 
 
-6) Wypożyczenia
+* **Wypożyczenia**
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/wypozyczenia.PNG)
 
 
-ER Diagram w jaki sposób tabele między sobą połączone
+* **ER Diagram**
+
 ![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/ER_Diagram.PNG)
