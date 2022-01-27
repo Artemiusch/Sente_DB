@@ -16,29 +16,29 @@ podpowiada w jaki sposób one zostałe połączone.
 
 * **Kary**
 
-[![](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)]()
+[![](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)](##Spis-tabel)
 
 
 * **Kategorie**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)
+[![](https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)](##Spis-tabel)
 
 
 * **Książki**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/ksiazki.PNG)
+[![](https://github.com/Artemiusch/Sente_DB/blob/main/ksiazki.PNG)](##Spis-tabel)
 
 
 * **Typy kar**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/typy_kar.PNG)
+[![](https://github.com/Artemiusch/Sente_DB/blob/main/typy_kar.PNG)](##Spis-tabel)
 
 
 * **Wypożyczenia**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/wypozyczenia.PNG)
+[![](https://github.com/Artemiusch/Sente_DB/blob/main/wypozyczenia.PNG)](##Spis-tabel)
 
 
 * **ER Diagram**
 
-![alt text](https://github.com/Artemiusch/Sente_DB/blob/main/ER_Diagram.PNG)
+[![](https://github.com/Artemiusch/Sente_DB/blob/main/ER_Diagram.PNG)](##Spis-tabel)
