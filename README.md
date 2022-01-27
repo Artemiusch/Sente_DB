@@ -12,7 +12,7 @@ podpowiada w jaki sposób one zostałe połączone.
 ## Spic Tabel
 * **<Czytelnicy**
 
-![](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG?raw=true "Title")
+![][https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG?raw=true "Title"]
 
 * **Kary**
 
