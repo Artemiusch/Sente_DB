@@ -162,7 +162,7 @@ Task 10
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)](##Spis-tabel)
 
-* [PL] **Kary** **Penalties** **Штрафні санкції**
+* **[PL] Kary** **Penalties** **Штрафні санкції**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)](##Spis-tabel)
 
