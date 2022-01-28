@@ -4,7 +4,7 @@
 * [Polish](#polish-language)
 * [English](#english)
 * [Ukrainian](#ukrainian-language)
-* [List of Tables](#Spis-Tabel-List-of-Tables-Таблиці)
+* [List of Tables](#List-of-Tables)
 
 ## Polish language
 Rekrutacja na stanowisko praktykant  dziale Baz Danych.
@@ -158,7 +158,7 @@ Task 9
 Task 10
 Висвітліть книги, які не були повернуті вчасно і за котрі ще не нараховано жодних плату за перевищення.
 
-## [PL] Spis Tabel [EN] List of Tables [UA] Таблиці
+## List of Tables
 * **[PL] Czytelnicy** **[EN] Readers** **[UA] Читачі**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)](##Spis-tabel)
