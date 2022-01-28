@@ -4,6 +4,8 @@
 * [Polish](#polish-language)
 * [English](#english)
 * [Ukrainian](#ukrainian-language)
+* [List of Tables](#List-of-Tables)
+
 
 ## Polish language
 Rekrutacja na stanowisko praktykant  dziale Baz Danych.
