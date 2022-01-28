@@ -3,9 +3,15 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
+<<<<<<< HEAD
     "scrollTop": -40.79999999999999,
     "scrollLeft": -450.3999999999999,
     "zoomLevel": 0.7,
+=======
+    "scrollTop": 0,
+    "scrollLeft": 0,
+    "zoomLevel": 1,
+>>>>>>> testing_branch
     "show": {
       "tableComment": true,
       "columnComment": true,
