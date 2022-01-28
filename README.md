@@ -6,7 +6,6 @@
 * [Ukrainian](#ukrainian-language)
 * [List of Tables](#[PL]-Spis-Tabel-[EN]-List-of-Tables-[UA]-Таблиці)
 
-
 ## Polish language
 Rekrutacja na stanowisko praktykant  dziale Baz Danych.
 Test zdalny, czas wykonywania 60 minut.
