@@ -158,31 +158,31 @@ Task 10
 Висвітліть книги, які не були повернуті вчасно і за котрі ще не нараховано жодних плату за перевищення.
 
 ## [PL] Spis Tabel [EN] List of Tables [UA] Таблиці 
-* **Czytelnicy** **Readers** **Читачі**
+* **[PL] Czytelnicy** **[EN] Readers** **[UA] Читачі**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)](##Spis-tabel)
 
-* **[PL] Kary** **Penalties** **Штрафні санкції**
+* **[PL] Kary** **[EN] Penalties** **[UA] Штрафні санкції**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/testing_branch/kary.PNG)](##Spis-tabel)
 
 
-* **Kategorie** **Categories** **Категорії**
+* **[PL] Kategorie** **[EN] Categories** **[UA] Категорії**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/kategorie.PNG)](##Spis-tabel)
 
 
-* **Książki** **Books** **Книги**
+* **[PL] Książki** **[EN] Books** **[UA] Книги**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/ksiazki.PNG)](##Spis-tabel)
 
 
-* **Typy kar** **Types of penalties** **Види покарань**
+* **[PL] Typy kar** **[EN] Types of penalties** **[UA] Види покарань**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/typy_kar.PNG)](##Spis-tabel)
 
 
-* **Wypożyczenia** **Information about books** **Інформація про видані книги**
+* **[PL] Wypożyczenia** **[EN] Information about books** **[UA] Інформація про видані книги**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/wypozyczenia.PNG)](##Spis-tabel)
 
