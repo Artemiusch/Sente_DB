@@ -159,7 +159,7 @@ Task 9
 Task 10
 Висвітліть книги, які не були повернуті вчасно і за котрі ще не нараховано жодних плату за перевищення.
 
-## [PL] Spis Tabel [EN] List of Tables [UA] Таблиці 
+## [PL] Spis Tabel [EN] List of Tables [UA] Таблиці
 * **[PL] Czytelnicy** **[EN] Readers** **[UA] Читачі**
 
 [![](https://github.com/Artemiusch/Sente_DB/blob/main/czytelnicy.PNG)](##Spis-tabel)
