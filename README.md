@@ -58,8 +58,8 @@ Task 10
 Wyświetl ksiązki które nie zostałe zwrócone w terminie oraz nie zostały dla nich jeszcze naliczone kary z tytułuowego przekroczenia.
 
 ## English
-Internship to Database recruitment
-Remote test, execution time 60 minutes.
+Internship to Database recruitment.\
+Remote test, execution time 60 minutes.\
 A database was given. You need to solve a 10 tasks.
 
 ## File description
@@ -108,8 +108,8 @@ Task 10
 View books that have not been returned on time and have not yet been charged for overshooting.
 
 ## Ukrainian language
-Стажування по базам даних
-Дистанційний тест, час виконання 60 хв.
+Стажування по базам даних.\
+Дистанційний тест, час виконання 60 хв.\
 Дано базу даних. Вам необхідно розв’язати 10 завдань.
 
 ## Опис файлу
