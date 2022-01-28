@@ -57,13 +57,10 @@ Jeden ze sposobów odpalenia bazy danych na komputerze.
 2. Instalacja MS Visual Studio Code
 3. W Edytorze kodu MS Visual  instalujemy SQLTools oraz Draw.io
 4. Otwieramy XAMPP, gdzie odpalamy modul Apache oraz MySQL (klikając przycisk start)
-5. W wyszukiwace piszemy adres strony: http://localhost/phpmyadmin/
-6. Tworzymy własną Baze Danych
-7. W Visual Studio Code już możemy odpalić własną bazę danych.
+5. W wyszukiwace piszemy adres strony: http://localhost/phpmyadmin/ i tworzymy folder, który będzie naszą Bazą Danych
 8. Wtedy już możemy odpalić pliki SENTE_DB oraz TASK_DB
-
-Aby odpalić ER Diagram należy plik DB.vued.json odpalić we własnym projekcie w Visual Studio Code i w górnym rogu ekranu nacisnąć przycisk "Open ERD Editor"
-
+9. Odpalamy pliki SENTE_DB.sql, Sente_task.sql oraz DB.vuerd.json
+    Aby odpalić ER Diagram należy w pliku DB.vued.json we własnym projekcie w Visual Studio Code w górnym rogu ekranu kliknąć przycisk "Open ERD Editor"
 
 ## Zadania
 
