@@ -4,7 +4,7 @@
 * [Polish](#polish-language)
 * [English](#english)
 * [Ukrainian](#ukrainian-language)
-* [List of Tables](#[PL]-Spis-Tabel-[EN]-List-of-Tables-[UA]-Таблиці)
+* [List of Tables](#Spis-Tabel-List-of-Tables-Таблиці)
 
 ## Polish language
 Rekrutacja na stanowisko praktykant  dziale Baz Danych.
