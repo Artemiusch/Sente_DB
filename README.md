@@ -4,7 +4,7 @@
 * [Polish](#polish-language)
 * [English](#english)
 * [Ukrainian](#ukrainian-language)
-* [List of Tables](#List-of-Tables)
+* [List of Tables](#[PL]-Spis-Tabel-[EN]-List-of-Tables-[UA]-Таблиці)
 
 
 ## Polish language
